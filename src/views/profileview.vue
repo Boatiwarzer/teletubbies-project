@@ -4,6 +4,7 @@
         <profileCard 
         :img = 'member.img'
         :name = "member.name"
+        :id = "member.id"
         :nickname = "member.nickname"
         :content = "member.content"
         :birthday = "member.birthday"
@@ -25,6 +26,7 @@ export default{
             members: [
                 {img : 'https://cdn.discordapp.com/attachments/925320359052451851/1039028567394238504/IMG_0709.jpg',
                 name: "Putita Paiboontanasombut",
+                id: '6410451245',
                 nickname: "bow",
                 content: "KU81",
                 birthday: "03-08-2001",
@@ -32,6 +34,7 @@ export default{
             {
             img : 'https://cdn.discordapp.com/attachments/990831156847050752/1039183549179375738/IMG_20221105_193105_371.jpg',
             name: "Puttipong Srina",
+            id: '6410450206',
             nickname: "Boat",
             content: "KU81",
             birthday: "24-01-2003",
@@ -39,6 +42,7 @@ export default{
             {
             img : 'https://cdn.discordapp.com/attachments/925320359052451851/1039030661740249138/IMG_1440.jpg',
             name: "Hataichanok Kladngam",
+            id: '6410451512',
             nickname: "Earth",
             content: "KU81",
             birthday: "18-01-2003",

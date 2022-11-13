@@ -59,6 +59,10 @@ export default {
             type : String,
             default : "--------"
         },
+        id : {
+            type : String,
+            default : "--------"
+        },
         nickname : {
             type : String,
             default : "---------"
