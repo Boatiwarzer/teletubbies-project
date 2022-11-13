@@ -29,6 +29,9 @@
                 <strong>Name :</strong>  {{name}}
             </div>
             <div>
+                <strong>Id :</strong>  {{id}}
+            </div>
+            <div>
                 <strong> Nickname :</strong>  {{nickname}}
             </div>
             <div>
