@@ -22,6 +22,8 @@ export default{
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@200;400&display=swap');
+
 .fontDefault{
     @apply bg-neutral-900 text-center text-3xl border-4 border-amber-200 ;
     margin-left: 35%;

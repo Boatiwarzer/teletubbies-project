@@ -43,7 +43,10 @@ export default {
   
 }
 </script>
+
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@200;400&display=swap');
+
 .profilecolor2{
     @apply text-teal-800 text-xl inline-block m-2 p-2 max-w-md 
      bg-amber-200 rounded-lg border-2 border-fuchsia-100 shadow-md

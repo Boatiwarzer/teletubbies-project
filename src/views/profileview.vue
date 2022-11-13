@@ -68,13 +68,14 @@ export default{
 
 <style>
     @import url('htps://fonts.googleapis.com/css2?family=Sriracha&display=swap');
-    @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200;400&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Mali:wght@200;400&display=swap');
 
 
     .profiles{
         @apply flex items-center justify-center space-x-8 h-screen;
         animation: fadeIn 2s;
-        font-family: 'Prompt', sans-serif;
+        font-family: 'Mali', cursive;
+
 
      
     }

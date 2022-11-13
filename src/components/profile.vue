@@ -72,7 +72,7 @@ export default {
     @apply text-teal-800 text-xl inline-block ml-2  max-w-md 
      bg-amber-200 rounded-lg border-0 border-fuchsia-100 hover:border-8 shadow-md
       hover:bg-amber-400 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700;
-      font-family: 'Mali', cursive;
+    font-family: 'Mali', cursive;
 
       
     
