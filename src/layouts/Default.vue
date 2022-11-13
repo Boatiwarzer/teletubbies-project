@@ -28,14 +28,14 @@ export default{
     margin-right: 35%;
     padding: 1%;
     color: #FFFFAB;
-    font-family: 'Prompt', sans-serif;
+    font-family: 'Mali', cursive;
     animation: fadeIn 4s;
 }
 .button{
     display: inline-block;
     padding: 3px 10px;
     font-size: 100%;
-    font-family: 'Prompt', sans-serif;
+    font-family: 'Mali', cursive;
     color: #FFFFAB;
     text-align: center;
     padding: 2%;

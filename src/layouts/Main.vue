@@ -54,7 +54,7 @@ export default{
     font-size: 300%;
     color: #FFFFAB;
     text-align: center;
-    font-family: 'Prompt', sans-serif;
+    font-family: 'Mali', cursive;
     margin-left: 35%;
     margin-right: 35%;
     padding: 1%;
