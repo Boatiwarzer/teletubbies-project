@@ -14,7 +14,7 @@
         
           <strong>Birthday:</strong> {{profile.birthday}}
         </div>
-        <div class=" mx-auto text-right space-x-3 border-t-2 p-3 mt-4">
+        <div class=" mx-auto text-right space-x-3 border-t-2 p-3 mt-5">
             <font-awesome-icon icon="fa-brands fa-instagram" class="text-2xl text-red-500" />
             <font-awesome-icon icon="fa-brands fa-twitter" class="text-2xl text-blue-400" />
             <font-awesome-icon icon="fa-brands fa-facebook" class="text-2xl text-blue-800" />
